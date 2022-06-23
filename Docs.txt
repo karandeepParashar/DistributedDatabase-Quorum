@@ -1,0 +1,25 @@
+1. A client  can  send  an add_update(key,value) request to any replica and the replica will update its local data store only 
+when it achieves a quorum. 
+2. The replicas will forward the add_update request to the leader, which will achieve quorum.
+3. Once the leader replica achieves a quorum (e.g., majority vote), it will COMMIT the changes from 
+the add_update request to its local data store. And, send COMMIT changes to other replicas.
+
+
+What is the algorithm for this exactly?
+Client can make two requests:
+1. add_update:
+	1. Client sends add_update request to a server.
+	2. server forwads the request to leader.
+	3. Leader achieves a "quorum".
+	4. Leader commits the local data.
+	5. Leader propogates the updated local data.
+2. read:
+	1. Client sends a read request to a server.
+	2. Server asks other N_r servers for the read value.
+	3. If no conflict, send data to client else repeat 2.
+
+There is no leader.
+Election method.
+Begining and when no response from leader.
+
+

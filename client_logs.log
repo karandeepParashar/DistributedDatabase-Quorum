@@ -1,0 +1,660 @@
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9990, 9980, 9999])
+INFO:root:User decides to send request to server 0
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9990, 9980, 9999])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9990, 9980, 9999])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:Error Occured in client side request handling
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9990, 9980, 9999])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9990, 9980, 9999])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9990, 9980, 9999])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9990, 9980, 9999])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9990, 9980, 9999])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9990, 9980, 9999])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9990, 9980, 9999])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9991, 9981, 9998])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9991, 9981, 9998])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9991, 9981, 9998])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost'], [9991, 9981, 9998])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Data is received:
+INFO:root:Changes discarded, quorum not achieved
+INFO:root:Time Elapsed: 1.5806963443756104
+INFO:root:Connection closed with 0 server
+INFO:root:
+
+NEW SESSION
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 19.088849306106567
+INFO:root:Connection closed with 0 server
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 2
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 3
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 6.11581015586853
+INFO:root:Connection closed with 3 server
+INFO:root:User decides to send request to server 3
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 4
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 2.1110939979553223
+INFO:root:Connection closed with 0 server
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 1
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.134293794631958
+INFO:root:Connection closed with 1 server
+INFO:root:User decides to send request to server 4
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 0.1153414249420166
+INFO:root:Connection closed with 4 server
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 4
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.6129560470581055
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 4
+INFO:root:Update requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.138840913772583
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 4
+INFO:root:Update requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 4
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.141083002090454
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 4
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 0.604759693145752
+INFO:root:Connection closed with 4 server
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.160787582397461
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 4
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 0.12017250061035156
+INFO:root:Connection closed with 4 server
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.142547845840454
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 1
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 1
+INFO:root:Read requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 1
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.1672286987304688
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.1441113948822021
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.1258678436279297
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 0
+INFO:root:Read requested from servers
+INFO:root:Time Elapsed: 0.5698974132537842
+INFO:root:Connection closed with 0 server
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.1403038501739502
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 1
+INFO:root:Read requested from servers
+INFO:root:Time Elapsed: 0.5741715431213379
+INFO:root:Connection closed with 1 server
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 2
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 2.0475244522094727
+INFO:root:Connection closed with 2 server
+INFO:root:User decides to send request to server 2
+INFO:root:Read requested from servers
+INFO:root:Time Elapsed: 0.5429596900939941
+INFO:root:Connection closed with 2 server
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 2
+INFO:root:Read requested from servers
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 2.118659496307373
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 4
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.636328935623169
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 3
+INFO:root:Read requested from servers
+INFO:root:Time Elapsed: 0.5664808750152588
+INFO:root:Connection closed with 3 server
+INFO:root:User decides to send request to server 4
+INFO:root:Read requested from servers
+INFO:root:Time Elapsed: 0.0560455322265625
+INFO:root:Connection closed with 4 server
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.1546919345855713
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 3
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 3
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 3
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.1374647617340088
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 4
+INFO:root:Read requested from servers
+INFO:root:Time Elapsed: 0.05899214744567871
+INFO:root:Connection closed with 4 server
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.1357018947601318
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 3
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 2
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 3
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 3
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.1137230396270752
+INFO:root:Connection closed with 3 server
+INFO:root:User decides to send request to server 2
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 4
+INFO:root:Read requested from servers
+INFO:root:Time Elapsed: 0.040528059005737305
+INFO:root:Connection closed with 4 server
+INFO:root:User decides to send request to server 2
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 4
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.1031122207641602
+INFO:root:Connection closed with 4 server
+INFO:root:User decides to send request to server 2
+INFO:root:Update requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:User decides to send request to server 2
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 4
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 0.1123807430267334
+INFO:root:Connection closed with 4 server
+INFO:root:User decides to send request to server 3
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.1190168857574463
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 3
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 0
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 1.1301727294921875
+INFO:root:Connection closed with 0 server
+INFO:root:User decides to send request to server 3
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 3
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 0.6037395000457764
+INFO:root:Connection closed with 3 server
+INFO:root:User decides to send request to server 1
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 3
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 0.596653938293457
+INFO:root:Connection closed with 3 server
+INFO:root:User decides to send request to server 1
+INFO:root:Read requested from servers
+INFO:root:Error Occured in client side request handling
+INFO:root:
+
+NEW SESSION
+INFO:root:Received Hosts and Ports:
+INFO:root:(['localhost', 'localhost', 'localhost', 'localhost', 'localhost'], [9953, 9982, 9959, 9963, 9985])
+INFO:root:User decides to send request to server 3
+INFO:root:Update requested from servers
+INFO:root:Time Elapsed: 0.5918397903442383
+INFO:root:Connection closed with 3 server
+INFO:root:User decides to send request to server 1
+INFO:root:Read requested from servers
+INFO:root:Time Elapsed: 0.02664923667907715
+INFO:root:Connection closed with 1 server
